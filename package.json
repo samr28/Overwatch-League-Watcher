@@ -1,0 +1,25 @@
+{
+  "name": "overwatch-league-watcher",
+  "version": "1.0.0",
+  "description": "Get those tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samr28/Overwatch-League-Watcher.git"
+  },
+  "author": "Sam Roquitte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samr28/Overwatch-League-Watcher/issues"
+  },
+  "homepage": "https://github.com/samr28/Overwatch-League-Watcher#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "node-schedule": "^1.3.2",
+    "overwatchleague": "^2.1.1",
+    "request": "^2.88.0"
+  }
+}
